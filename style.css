@@ -1,0 +1,51 @@
+.div1 :hover{
+    color: rgb(38,133,199);
+    border-radius: 3px;
+    border-bottom: 3px solid rgb(40,133,200);
+
+
+}
+.div1 a{
+    text-decoration: none; 
+    color: inherit;
+}
+
+.box{
+    display: flex;
+    justify-content: flex-end;
+}
+#box1 {
+    height: 651.55;
+    width: 256.6;
+  border: 2px solid  black;
+  margin-right: 10px;
+}
+#box2 {
+    height: 651.55;
+    width: 256.6;
+  border: 2px solid  black;
+  margin-right: 10px;
+}
+
+
+#box3 {
+    height: 651.55;
+    width: 256.6;
+  border: 2px solid  black;
+  margin-right: 10px;
+}
+
+#box4 {
+    height: 1000;
+    width: 400.6;
+  border: 2px solid  black;
+  
+}
+
+.active, .main-2 ul li :hover{
+    
+  text-decoration: solid;
+  border-bottom: 3px solid rgb(40,133,200);
+  width:cover;
+
+}
